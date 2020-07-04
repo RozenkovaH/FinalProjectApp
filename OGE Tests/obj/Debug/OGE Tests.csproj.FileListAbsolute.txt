@@ -1,0 +1,35 @@
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\bin\Debug\OGE Tests.exe
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\bin\Debug\OGE Tests.exe.config
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.Authorization.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.MainMenu.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.Properties.Resources.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.Register.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE Tests.csproj.GenerateResource.cache
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE Tests.csproj.CoreCompileInputs.cache
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE Tests.exe
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE Tests.pdb
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\bin\Debug\Database.mdf
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\bin\Debug\Database_log.ldf
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\bin\Debug\OGE Tests.pdb
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.Info.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.Profile.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.ChooseTest.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\bin\Debug\asa-TZ\OGE Tests.resources.dll
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.ChooseTest.asa-TZ.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\asa-TZ\OGE Tests.resources.dll
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.GramVocabTest.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.ListeningTest.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.ReadingTest.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\bin\Debug\Interop.WMPLib.dll
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\Interop.WMPLib.dll
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE Tests.csproj.ResolveComReference.cache
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE Tests.csprojAssemblyReference.cache
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.MyResults.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\bin\Debug\ja-JP\OGE Tests.resources.dll
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.ChooseTestResults.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.ChooseTestResults.ja-JP.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\ja-JP\OGE Tests.resources.dll
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.FAQ.resources
+C:\Users\Христина\source\repos\OGE Tests\OGE Tests\obj\Debug\OGE_Tests.ExamStrats.resources
